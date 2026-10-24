@@ -27,7 +27,7 @@
 
 <font size="1">2026 年 9 月 15 日</font>
 
-### [权力比技术或智商更加重要](technology-and-power.md)
+### [权力比技术和智商更重要](technology-and-power.md)
 
 <font size="1">2026 年 9 月 12 日</font>
 
