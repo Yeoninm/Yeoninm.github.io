@@ -1,3 +1,7 @@
+<font size="1">持续更新 · 最新交易日：2026 年 10 月 23 日</font>
+
+### [A股收盘杠杆与走势研判](a-share-daily.md)
+
 <font size="1">2026 年 10 月 24 日</font>
 
 ### [李嘉诚的思维](calm-in-a-crisis.md)
