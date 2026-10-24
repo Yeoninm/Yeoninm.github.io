@@ -1,6 +1,7 @@
 ---
 title: "加密项目的护城河：从12个案例看代币价值捕获"
-date: 2026-10-24
+date: 2026-10-05
+published_date: 2026-10-24
 category: Crypto Research
 tags: [Crypto, Moat, Token, 价值研究]
 source: "https://chatgpt.com/s/t_6adc3aa7aa4481918c3e6f7dcfda7b8e"
@@ -10,7 +11,7 @@ source: "https://chatgpt.com/s/t_6adc3aa7aa4481918c3e6f7dcfda7b8e"
 
 [返回项目研究目录](crypto-research.md) · [返回主页](./)
 
-<font size="1">2026 年 10 月 24 日整理发布 · [原文分享](https://chatgpt.com/s/t_6adc3aa7aa4481918c3e6f7dcfda7b8e)</font>
+<font size="1">写于 2026 年 10 月 5 日 · 2026 年 10 月 24 日上传 · [原文分享](https://chatgpt.com/s/t_6adc3aa7aa4481918c3e6f7dcfda7b8e)</font>
 
 > 本文保留原研判的观点与数据时点，项目排序为定性评估；整理发布未重新核验文中的历史数据。
 

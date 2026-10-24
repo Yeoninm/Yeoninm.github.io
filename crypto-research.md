@@ -12,7 +12,7 @@ category: Crypto Research
 
 ## 综合研究
 
-<font size="1">2026 年 10 月 24 日 · 竞争优势与代币价值</font>
+<font size="1">2026 年 10 月 5 日 · 竞争优势与代币价值</font>
 
 ### [加密项目的护城河：从12个案例看代币价值捕获](crypto-moats-2026.md)
 
