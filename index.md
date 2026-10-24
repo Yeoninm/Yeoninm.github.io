@@ -1,3 +1,14 @@
+<style>
+.markdown-body > font + h3 {
+  margin-top: 4px;
+  margin-bottom: 24px;
+}
+</style>
+
+<font size="1">2026 年 10 月 24 日</font>
+
+### [我很喜欢的两部电影《罗曼蒂克消亡史》与《师父》](romantic-disappearance-and-the-master.md)
+
 <font size="1">2026 年 10 月 24 日</font>
 
 ### [李嘉诚的思维](calm-in-a-crisis.md)
