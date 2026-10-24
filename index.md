@@ -33,10 +33,6 @@
 
 ### [诗歌中的美学冲突](poetry-aesthetic-conflict.md)
 
-<font size="1">2024 年 9 月 15 日</font>
-
-### [占位符](./)
-
 <font size="1">2024 年 8 月 15 日</font>
 
 ### [写作真的是一件很难的事情吗](learntowrite.md)
