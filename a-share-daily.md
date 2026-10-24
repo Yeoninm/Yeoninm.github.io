@@ -9,22 +9,21 @@ category: A股收盘杠杆与走势研判
 
 [返回主页](./)
 
-按交易日持续更新，最新分析在前。当前收录 **2026年10月21日至23日** 的三次收盘研判。
-
-> 以下为历史研判整理稿，保留各交易日当时的观点、数据口径及后续验证条件；未重新独立核验所有行情数字。各篇原有的来源说明与待核实事项一并保留。
-
 <a id="trading-days"></a>
 
 ## 交易日目录
 
-- [2026-10-23](#report-2026-10-23)
-- [2026-10-22](#report-2026-10-22)
-- [2026-10-21](#report-2026-10-21)
+点击日期展开当天分析，再次点击即可收起。
 
+<style>
+.daily-report { margin: 0; padding: 0.85rem 0; border-bottom: 1px solid #e5e7eb; }
+.daily-report > summary { cursor: pointer; font-weight: 600; color: #267cb9; }
+.daily-report[open] > summary { margin-bottom: 1.25rem; }
+.daily-report > summary:focus-visible { outline: 2px solid currentColor; outline-offset: 4px; }
+</style>
 
----
-
-<a id="report-2026-10-23"></a>
+<details class="daily-report" id="report-2026-10-23" markdown="1">
+<summary>2026-10-23</summary>
 
 ## A股收盘杠杆与走势研判｜2026年10月23日
 
@@ -117,12 +116,10 @@ category: A股收盘杠杆与走势研判
 
 > 本文保留当时研判的历史上下文，不把原回答中的临时引用ID转换为未经核验的网页链接。
 
-[返回交易日目录](#trading-days)
+</details>
 
-
----
-
-<a id="report-2026-10-22"></a>
+<details class="daily-report" id="report-2026-10-22" markdown="1">
+<summary>2026-10-22</summary>
 
 ## A股收盘杠杆与走势研判｜2026年10月22日
 
@@ -197,12 +194,10 @@ category: A股收盘杠杆与走势研判
 
 > 本文件为当时研判归档，原聊天中的临时引用标识不作为可访问的正式链接。
 
-[返回交易日目录](#trading-days)
+</details>
 
-
----
-
-<a id="report-2026-10-21"></a>
+<details class="daily-report" id="report-2026-10-21" markdown="1">
+<summary>2026-10-21</summary>
 
 ## A股收盘杠杆与走势研判｜2026年10月21日
 
@@ -273,4 +268,4 @@ category: A股收盘杠杆与走势研判
 
 > 本文件为聊天记录研判内容归档，不将原回复中无法在本文件内复核的引用ID冒充有效网页链接。
 
-[返回交易日目录](#trading-days)
+</details>
