@@ -7,10 +7,6 @@
 
 <font size="1">2026 年 10 月 24 日</font>
 
-### [我很喜欢的两部电影《罗曼蒂克消亡史》与《师父》](romantic-disappearance-and-the-master.md)
-
-<font size="1">2026 年 10 月 24 日</font>
-
 ### [李嘉诚的思维](calm-in-a-crisis.md)
 
 <font size="1">持续更新 · 最近更新：2026 年 10 月 24 日</font>
@@ -20,6 +16,10 @@
 <font size="1">持续更新 · 最新交易日：2026 年 10 月 23 日</font>
 
 ### [A股收盘杠杆与走势研判](a-share-daily.md)
+
+<font size="1">2026 年 9 月 23 日</font>
+
+### [我很喜欢的两部电影《罗曼蒂克消亡史》与《师父》](romantic-disappearance-and-the-master.md)
 
 <font size="1">2026 年 9 月 12 日</font>
 
