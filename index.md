@@ -17,9 +17,17 @@
 
 ### [A股收盘杠杆与走势研判](a-share-daily.md)
 
+<font size="1">2026 年 10 月 23 日</font>
+
+### [这两天的下跌](market-selloff-2026-10-23.md)
+
 <font size="1">2026 年 9 月 23 日</font>
 
 ### [我很喜欢的两部电影《罗曼蒂克消亡史》与《师父》](romantic-disappearance-and-the-master.md)
+
+<font size="1">2026 年 9 月 15 日</font>
+
+### [技术与权力](technology-and-power.md)
 
 <font size="1">2026 年 9 月 12 日</font>
 
