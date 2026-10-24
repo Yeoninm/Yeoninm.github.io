@@ -1,6 +1,6 @@
 <font size="1">2026 年 10 月 24 日</font>
 
-### [从李嘉诚的一句话，看做交易的能力](calm-in-a-crisis.md)
+### [李嘉诚的思维](calm-in-a-crisis.md)
 
 <font size="1">2026 年 10 月 23 日</font>
 
