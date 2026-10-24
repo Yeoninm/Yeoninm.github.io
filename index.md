@@ -1,3 +1,7 @@
+<font size="1">2026 年 10 月 24 日</font>
+
+### [遇到事情，先想自己还能做什么](calm-in-a-crisis.md)
+
 <font size="1">2026 年 10 月 23 日</font>
 
 ### [Maple Finance：最容易被忽略的，不是借贷规模，而是机构信贷网络的价值](maple-finance-2026.md)
