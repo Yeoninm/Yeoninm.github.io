@@ -1,6 +1,6 @@
 ---
 title: "加密项目研究：商业模式与代币价值"
-date: 2026-10-24
+date: 2026-10-28
 category: Crypto Research
 ---
 
@@ -17,6 +17,10 @@ category: Crypto Research
 ### [加密项目的护城河：从12个案例看代币价值捕获](crypto-moats-2026.md)
 
 ## 项目目录
+
+<font size="1">2026 年 10 月 28 日 · AI 数据服务</font>
+
+### [KLED：一家估值 2.8 亿美元的 AI 数据公司，为什么代币只值 1300 万美元？（参考价 $0.01582｜2026-10-28）](kled-2026.md)
 
 <font size="1">2026 年 10 月 24 日 · 钱包连接基础设施</font>
 
