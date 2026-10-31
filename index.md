@@ -48,6 +48,10 @@
 
 ### [创新扩散理论](innovation-diffusion.md)
 
+<font size="1">2025 年 1 月 20 日</font>
+
+### [王兴在饭否上发的我很喜欢的一句话](wang-xing-simple-truths.md)
+
 </details>
 
 <details class="year-archive home-archive" id="year-2024" open markdown="1">
