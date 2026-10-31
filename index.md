@@ -1,9 +1,7 @@
-<style>
-.markdown-body > font + h3 {
-  margin-top: 4px;
-  margin-bottom: 24px;
-}
-</style>
+<link rel="stylesheet" href="./assets/css/year-archive.css">
+
+<details class="year-archive home-archive" id="year-2026" open markdown="1">
+<summary>2026 年</summary>
 
 <font size="1">持续更新 · 最近更新：2026 年 10 月 31 日</font>
 
@@ -33,6 +31,15 @@
 
 ### [诗歌中的美学冲突](poetry-aesthetic-conflict.md)
 
+<font size="1">2026 年 4 月 18 日</font>
+
+### [整理了一下大家的投资策略](investment-strategies.md)
+
+</details>
+
+<details class="year-archive home-archive" id="year-2025" open markdown="1">
+<summary>2025 年</summary>
+
 <font size="1">2025 年 9 月 23 日</font>
 
 ### [从德扑中理解到的交易心得](poker-and-trading.md)
@@ -41,10 +48,22 @@
 
 ### [创新扩散理论](innovation-diffusion.md)
 
+</details>
+
+<details class="year-archive home-archive" id="year-2024" open markdown="1">
+<summary>2024 年</summary>
+
 <font size="1">2024 年 8 月 15 日</font>
 
 ### [写作真的是一件很难的事情吗](learntowrite.md)
 
+</details>
+
+<details class="year-archive home-archive" id="year-2023" open markdown="1">
+<summary>2023 年</summary>
+
 <font size="1">2023 年 3 月 21 日</font>
 
 ### [mRNA：身体的软件化与编程化](mrna-software-of-the-body.md)
+
+</details>

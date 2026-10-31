@@ -10,6 +10,11 @@ category: Crypto Research
 
 从产品需求、竞争优势和收入来源出发，研究价值如何传递到代币。点击项目标题阅读全文。
 
+<link rel="stylesheet" href="./assets/css/year-archive.css">
+
+<details class="year-archive" id="year-2026" open markdown="1">
+<summary>2026 年</summary>
+
 ## 综合研究
 
 <font size="1">2026 年 10 月 5 日 · 竞争优势与代币价值</font>
@@ -34,6 +39,11 @@ category: Crypto Research
 
 ### [Maple Finance：最容易被忽略的，不是借贷规模，而是机构信贷网络的价值](maple-finance-2026.md)
 
+</details>
+
+<details class="year-archive" id="year-2025" open markdown="1">
+<summary>2025 年</summary>
+
 <font size="1">2025 年 12 月 24 日 · Solana 资产协议与代币发行</font>
 
 ### [失去 Pump.fun，赢得未来？剖析 Metaplex 的生存逻辑与增长赌注](metaplex-2025.md)
@@ -41,3 +51,5 @@ category: Crypto Research
 <font size="1">2025 年 9 月 17 日 · 直播与创作者经济</font>
 
 ### [BASEDD](basedd-2025.md)
+
+</details>

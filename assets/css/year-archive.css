@@ -1,0 +1,25 @@
+.markdown-body .year-archive {
+  margin: 24px 0;
+}
+
+.markdown-body .year-archive > summary {
+  min-height: 44px;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 44px;
+  cursor: pointer;
+}
+
+.markdown-body .year-archive[open] > summary {
+  margin-bottom: 16px;
+}
+
+.markdown-body .year-archive > summary:focus-visible {
+  outline: 2px solid #0366d6;
+  outline-offset: 4px;
+}
+
+.markdown-body .home-archive > font + h3 {
+  margin-top: 4px;
+  margin-bottom: 24px;
+}
