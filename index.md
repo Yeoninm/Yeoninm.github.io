@@ -54,17 +54,12 @@
 
 </details>
 
-<details class="year-archive home-archive" id="year-2024" open markdown="1">
-<summary>2024 年</summary>
+<details class="year-archive home-archive" id="through-2024" open markdown="1">
+<summary>2024 年及之前</summary>
 
 <font size="1">2024 年 8 月 15 日</font>
 
 ### [写作真的是一件很难的事情吗](learntowrite.md)
-
-</details>
-
-<details class="year-archive home-archive" id="before-2023" open markdown="1">
-<summary>2023 年之前</summary>
 
 <font size="1">2023 年 6 月 22 日</font>
 
