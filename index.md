@@ -63,8 +63,8 @@
 
 </details>
 
-<details class="year-archive home-archive" id="year-2023" open markdown="1">
-<summary>2023 年</summary>
+<details class="year-archive home-archive" id="before-2023" open markdown="1">
+<summary>2023 年之前</summary>
 
 <font size="1">2023 年 6 月 22 日</font>
 
@@ -73,11 +73,6 @@
 <font size="1">2023 年 3 月 21 日</font>
 
 ### [mRNA：身体的软件化与编程化](mrna-software-of-the-body.md)
-
-</details>
-
-<details class="year-archive home-archive" id="before-2023" open markdown="1">
-<summary>2023 年之前</summary>
 
 <font size="1">2022 年 3 月</font>
 
