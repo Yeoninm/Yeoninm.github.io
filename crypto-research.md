@@ -1,6 +1,6 @@
 ---
 title: "加密项目研究：商业模式与代币价值"
-date: 2026-10-28
+date: 2026-10-31
 category: Crypto Research
 ---
 
@@ -33,3 +33,7 @@ category: Crypto Research
 <font size="1">2026 年 10 月 23 日 · 链上机构信贷</font>
 
 ### [Maple Finance：最容易被忽略的，不是借贷规模，而是机构信贷网络的价值](maple-finance-2026.md)
+
+<font size="1">2025 年 12 月 24 日 · Solana 资产协议与代币发行</font>
+
+### [失去 Pump.fun，赢得未来？剖析 Metaplex 的生存逻辑与增长赌注](metaplex-2025.md)
