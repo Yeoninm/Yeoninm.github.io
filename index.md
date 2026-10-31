@@ -76,17 +76,12 @@
 
 </details>
 
-<details class="year-archive home-archive" id="year-2022" open markdown="1">
-<summary>2022 年</summary>
+<details class="year-archive home-archive" id="before-2023" open markdown="1">
+<summary>2023 年之前</summary>
 
 <font size="1">2022 年 3 月</font>
 
 ### [信任](trust.md)
-
-</details>
-
-<details class="year-archive home-archive" id="year-2019" open markdown="1">
-<summary>2019 年</summary>
 
 <font size="1">2019 年 1 月 14 日</font>
 
