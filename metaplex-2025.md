@@ -15,6 +15,8 @@ Metaplex 最早是在 Solana Labs 内部孵化的 NFT 标准协议，后续推�
 
 但今天在看 Metaplex 11月月度回顾的时候，突然发现，原来 Pump.fun 从11月12日开始改成了自己的 SPL Token-22 标准铸造代币，弃用了 Metaplex 的标准，也就是说 Metaplex 失去了 Pump.fun 的近乎全部收益
 
+[![Pump.fun 文档中的 Token2022 说明](./imgs/metaplex-pump-token2022.png)](./imgs/metaplex-pump-token2022.png)
+
 这部分收益占 Metaplex 多少呢
 
 以25年上半年为例，总收入1380万，去掉 Pump.fun 部分还剩多少，300万，也就是上半年82%的收入都是源自 Pump.fun
@@ -24,6 +26,8 @@ Metaplex 最早是在 Solana Labs 内部孵化的 NFT 标准协议，后续推�
 10月，11月 Genesis 收入（紫色部分）占总收入分别是 18% 和 10%
 
 11月月报中，Metaplex 给了去除 Pump.fun 收入的统计表，截止（包含）11月不含 Pump.fun 的总收入约900万左右
+
+[![2025 年 Metaplex 剔除 Pump.fun 后的月度收入](./imgs/metaplex-2025-revenue-ex-pump.png)](./imgs/metaplex-2025-revenue-ex-pump.png)
 
 12月按照市场不景气的现状看收入估计可以在50万上下
 
