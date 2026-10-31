@@ -33,6 +33,14 @@
 
 ### [诗歌中的美学冲突](poetry-aesthetic-conflict.md)
 
+<font size="1">2025 年 9 月 23 日</font>
+
+### [从德扑中理解到的交易心得](poker-and-trading.md)
+
+<font size="1">2025 年 9 月 12 日</font>
+
+### [创新扩散理论](innovation-diffusion.md)
+
 <font size="1">2024 年 8 月 15 日</font>
 
 ### [写作真的是一件很难的事情吗](learntowrite.md)

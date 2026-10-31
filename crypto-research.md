@@ -37,3 +37,7 @@ category: Crypto Research
 <font size="1">2025 年 12 月 24 日 · Solana 资产协议与代币发行</font>
 
 ### [失去 Pump.fun，赢得未来？剖析 Metaplex 的生存逻辑与增长赌注](metaplex-2025.md)
+
+<font size="1">2025 年 9 月 17 日 · 直播与创作者经济</font>
+
+### [BASEDD](basedd-2025.md)
