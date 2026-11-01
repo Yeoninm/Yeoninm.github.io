@@ -3,6 +3,10 @@
 <details class="year-archive home-archive" id="year-2026" open markdown="1">
 <summary>2026 年</summary>
 
+<font size="1">2026 年 11 月 2 日</font>
+
+### [我们用一生，回到起点](return-to-the-beginning.md)
+
 <font size="1">2026 年 11 月 1 日</font>
 
 ### [我发现，价值投资可能是一个伪命题](value-investing-and-consensus.md)
