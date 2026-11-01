@@ -3,6 +3,10 @@
 <details class="year-archive home-archive" id="year-2026" open markdown="1">
 <summary>2026 年</summary>
 
+<font size="1">2026 年 11 月 1 日</font>
+
+### [我发现，价值投资可能是一个伪命题](value-investing-and-consensus.md)
+
 <font size="1">持续更新 · 最近更新：2026 年 10 月 31 日</font>
 
 ### [加密项目研究：商业模式与代币价值](crypto-research.md)
