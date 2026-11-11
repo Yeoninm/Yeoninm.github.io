@@ -80,6 +80,10 @@ layout: default
 
 ### [我用什么才能留住你 - 博尔赫斯](borges-what-can-i-hold-you-with.md)
 
+<font size="1">2023 年 4 月 12 日</font>
+
+### [读 ilya sutskever 访谈整理和理解](ilya-sutskever-interview.md)
+
 <font size="1">2023 年 3 月 21 日</font>
 
 ### [mRNA：身体的软件化与编程化](mrna-software-of-the-body.md)
