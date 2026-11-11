@@ -1,2 +1,7 @@
 <link rel="stylesheet" href="{{ '/assets/css/theme-toggle.css' | relative_url }}">
 <script src="{{ '/assets/js/theme-toggle.js' | relative_url }}"></script>
+{% assign umami_id = site.umami.website_id | default: '' | strip %}
+{% assign umami_script = site.umami.script_url | default: '' | strip %}
+{% if umami_id != '' and umami_script != '' %}
+<script defer src="{{ umami_script | escape }}" data-website-id="{{ umami_id | escape }}" data-domains="yeoninm.github.io" data-exclude-search="true" data-exclude-hash="true"></script>
+{% endif %}

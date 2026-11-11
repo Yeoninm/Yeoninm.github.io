@@ -1,2 +1,9 @@
 title: "Limin"
 author: "Limin"
+
+# Private analytics: copy both values from Umami > Websites > Tracking code.
+# Keep Share URLs disabled in Umami; no visitor count is shown on this site.
+# Empty values leave tracking disabled until the owner's account is ready.
+umami:
+  website_id: ""
+  script_url: ""
