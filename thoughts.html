@@ -1,0 +1,21 @@
+---
+layout: default
+title: "随想"
+---
+<link rel="stylesheet" href="{{ '/assets/css/home-links.css' | relative_url }}">
+{% include profile-links.html %}
+<h1>随想</h1>
+<p class="thoughts-intro">一些尚未写成文章的想法。</p>
+{% assign thoughts = site.data.thoughts | sort: 'date' | reverse %}
+{% for thought in thoughts %}
+<article class="thought-entry" id="{{ thought.id | escape }}">
+  {% if thought.title and thought.title != '' %}<h2>{{ thought.title | escape }}</h2>{% endif %}
+  <div class="thought-content">{{ thought.content | markdownify }}</div>
+  <footer class="thought-meta">
+    <a class="thought-permalink" href="#{{ thought.id | escape }}" aria-label="这条随想的永久链接">链接 <span aria-hidden="true">↗</span></a>
+    <time datetime="{{ thought.date | date_to_xmlschema }}">{{ thought.date | date: '%Y-%m-%d' }}</time>
+  </footer>
+</article>
+{% else %}
+<p class="thoughts-empty">还没有发布随想。</p>
+{% endfor %}

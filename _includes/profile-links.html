@@ -1,0 +1,14 @@
+<div class="home-links">
+  <nav class="section-links" aria-label="内容导航">
+    <a href="{{ '/' | relative_url }}"{% unless page.url contains 'thoughts' %} aria-current="page"{% endunless %}>文章</a>
+    <a href="{{ '/thoughts.html' | relative_url }}"{% if page.url contains 'thoughts' %} aria-current="page"{% endif %}>随想</a>
+  </nav>
+  <nav class="social-links" aria-label="社交主页">
+    <a href="https://x.com/0x_limin" target="_blank" rel="noopener noreferrer" aria-label="推特（X）：@0x_limin，在新标签页打开" title="推特（X） · @0x_limin">
+      <svg viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 5.9a8.3 8.3 0 0 1-2.4.7 4.2 4.2 0 0 0 1.8-2.3 8.3 8.3 0 0 1-2.7 1 4.2 4.2 0 0 0-7.2 3.8A11.9 11.9 0 0 1 2.9 4.7a4.2 4.2 0 0 0 1.3 5.6 4.2 4.2 0 0 1-1.9-.5v.1a4.2 4.2 0 0 0 3.4 4.1 4.2 4.2 0 0 1-1.9.1 4.2 4.2 0 0 0 3.9 2.9A8.4 8.4 0 0 1 2.5 19H1.5a11.9 11.9 0 0 0 18.3-10c0-.2 0-.4-.1-.5A8.5 8.5 0 0 0 22 5.9Z"/></svg>
+    </a>
+    <a href="https://github.com/Yeoninm" target="_blank" rel="noopener noreferrer" aria-label="GitHub：Yeoninm，在新标签页打开" title="GitHub · Yeoninm">
+      <svg viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 19c-4.3 1.3-4.3-2.2-6-2.7M15 22v-3.9a3.4 3.4 0 0 0-.9-2.6c3-.3 6.2-1.5 6.2-6.8a5.3 5.3 0 0 0-1.5-3.7 4.9 4.9 0 0 0-.1-3.7s-1.2-.4-3.9 1.4a13.4 13.4 0 0 0-7 0C5.1.9 3.9 1.3 3.9 1.3A4.9 4.9 0 0 0 3.8 5a5.3 5.3 0 0 0-1.5 3.7c0 5.3 3.2 6.5 6.2 6.8a3.4 3.4 0 0 0-.9 2.6V22"/></svg>
+    </a>
+  </nav>
+</div>

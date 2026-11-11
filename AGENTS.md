@@ -47,3 +47,13 @@ published: false
 - 仅提交本次任务的文件；不要连带提交工作区内其他未完成的修改。
 - 日期字段必须使用完整的 YYYY-MM-DD。仅有年月时，用 written_month 保存，不能写入 Jekyll 的 date 字段。
 - 本文件是维护说明，published: false 用于阻止其生成公开文章。
+
+## 随想栏目
+
+- 首页和随想页共用 `_includes/profile-links.html` 导航。推特为 https://x.com/0x_limin，GitHub 为 https://github.com/Yeoninm。
+- 短想法存放在 `_data/thoughts.yml`，由 `thoughts.html` 按日期倒序展示。不为每条随想新建文章，也不放入首页年份文章列表。
+- 每条数据包含 `id`（唯一且发布后不改）、`date`（带引号的完整 ISO 日期，可含北京时间和 +08:00）、`content`（多行 Markdown）；`title` 可省略。
+- 永久链接为 `/thoughts.html#条目id`；日期使用用户指定日期，未指定时按当前北京时间。不可编造具体时分。
+- 首次添加条目时将空数组 `[]` 替换为 YAML 列表。只发布用户提供或确认的想法；没有内容时保留空状态，不用示例观点冒充用户内容。
+
+- 全站深浅色切换通过 `_includes/head-custom.html` 加载，首次跟随系统，用户选择保存在本机；后续新组件也需兼容深色模式。

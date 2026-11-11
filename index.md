@@ -1,4 +1,11 @@
+---
+layout: default
+---
+
 <link rel="stylesheet" href="./assets/css/year-archive.css">
+<link rel="stylesheet" href="./assets/css/home-links.css">
+
+{% include profile-links.html %}
 
 <details class="year-archive home-archive" id="year-2026" open markdown="1">
 <summary>2026 年</summary>
