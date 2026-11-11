@@ -18,8 +18,7 @@
     window.twttr.widgets.createTweet(entry.dataset.tweetId, target, {
       theme: document.documentElement.dataset.theme || 'light',
       dnt: true,
-      conversation: 'none',
-      align: 'left'
+      conversation: 'none'
     }).then(function (frame) {
       if (!target.isConnected) return;
       if (!frame) fallback(entry);

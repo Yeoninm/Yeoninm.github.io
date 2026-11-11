@@ -67,3 +67,29 @@
 .markdown-body .tweet-status { color: #586069; font-size: 14px; }
 .markdown-body .tweet-target iframe { max-width: 100%; }
 html[data-theme="dark"] .markdown-body .tweet-status { color: #adb8c4; }
+
+.markdown-body .thought-gallery {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+  margin-top: 16px;
+}
+.markdown-body .thought-gallery a { display: block; }
+.markdown-body .thought-gallery img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+@media (max-width: 480px) {
+  .markdown-body .thought-gallery { gap: 8px; }
+}
+
+/* Keep embedded widgets and their floats inside their own note. */
+.markdown-body .thought-entry,
+.markdown-body .tweet-preview,
+.markdown-body .tweet-target { display: flow-root; }
+.markdown-body .tweet-target .twitter-tweet,
+.markdown-body .tweet-target iframe { float: none !important; max-width: 100%; }
+.markdown-body .thought-meta { clear: both; }
+.markdown-body .thought-gallery a:only-child { grid-column: 1 / -1; max-width: 520px; }

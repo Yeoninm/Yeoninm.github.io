@@ -1,3 +1,135 @@
+- id: 2026-04-19-hangzhou
+  date: '2026-04-19'
+  content: |
+    最近十分喜欢杭州
+  images:
+    - src: /imgs/thoughts/2026-04-19/1.png
+      alt: 湖边亮灯的建筑与倒影
+      width: 1536
+      height: 2048
+    - src: /imgs/thoughts/2026-04-19/2.png
+      alt: 夜色中的塔与码头
+      width: 1536
+      height: 2048
+    - src: /imgs/thoughts/2026-04-19/3.png
+      alt: 雨中撑伞的背影
+      width: 1536
+      height: 2048
+    - src: /imgs/thoughts/2026-04-19/4.png
+      alt: 雨中的街道
+      width: 1536
+      height: 2048
+
+- id: 2026-03-28-gallery
+  date: '2026-03-28'
+  content: ''
+  images:
+    - src: /imgs/thoughts/2026-03-28/1.png
+      alt: 展厅走廊
+      width: 1536
+      height: 2048
+    - src: /imgs/thoughts/2026-03-28/2.png
+      alt: 展厅里的红色作品
+      width: 1536
+      height: 2048
+    - src: /imgs/thoughts/2026-03-28/3.png
+      alt: 悬挂的展品
+      width: 2048
+      height: 1536
+    - src: /imgs/thoughts/2026-03-28/4.png
+      alt: 通向庭院的门
+      width: 1536
+      height: 2048
+
+- id: 2026-03-07-wework
+  date: '2026-03-07'
+  content: |
+    偶遇了一家WeWork，才发现WeWork最近有点欣欣向荣的意思
+
+    从传统的重资产租赁变成了协议式管理（WeWork 不再作为承租人，而是与业主签署合作协议。业主保留房产的经营权，WeWork 仅提供品牌授权、招租服务、空间设计、运营管理以及技术系统支持。 ）
+
+    2025年财务健康显着提升，年营收39.8亿美元，营收可能低于租赁模式，但其毛利率更高且现金流更稳定，现在这个模式下破产肯定是破产不了了（不需要付租金，运营成本极低）
+
+    离开战神 Adam 的 WeWork 开始走向实用主义了
+  images:
+    - src: /imgs/thoughts/2026-03-07/1.png
+      alt: WeWork室内休息区
+      width: 1536
+      height: 2048
+
+- id: 2026-02-27-ai-conversations
+  date: '2026-02-27'
+  content: |
+    孙哥说的对，减少和人沟通，多和 AI 沟通
+
+    王兴之前在饭否上说如果每天不发三个饭否帖子，就觉得一天白过了，现在觉得如果每天不和 AI 进行 50次以上的对话，一天就白过了
+
+    分享一部分最近的对话
+
+    穿越到古代复刻现代社会以及未来人穿越到2026复刻未来社会的可行性探讨 [gemini.google.com/share/e8f6e2d4](https://t.co/A8wbZ4RGut)
+
+    AI演进和目的论危机 [gemini.google.com/share/6a7d060e](https://t.co/7eAsz07f1a)
+
+    为什么说智能体是 AGI 的最终形态 [gemini.google.com/share/f8a37f61](https://t.co/HgjIdbhqFw)
+
+    在信息过载时代如何提高信息的筛选解读和逻辑推理的能力 [gemini.google.com/share/18588192](https://t.co/umi7Rl5sro)
+
+    HALO股：AI时代实体资产价值 [gemini.google.com/share/f5681ec9](https://t.co/PsLtZh6l8E)
+
+- id: 2026-01-20-typeless
+  date: '2026-01-20'
+  content: |
+    我一直觉得人机交互最大的瓶颈在于 IO 带宽，其中主要问题在于敲击文字的速度。
+
+    人类大脑的思维是非线性的，语速能到 150wpm，但打字只有 50wpm 左右。这种低效的“线性化”过程不仅慢，还极其消耗 CPU（认知负载）。
+
+    以前曾寄希望于语音输入，但苹果原生的 Dictation 懂“字”却不懂“意”：
+
+    ❌ 满篇的口头禅（呃、然后）
+
+    ❌ 识别不出技术术语
+
+    ❌ 只要构思没跟上，转出来就是一堆垃圾
+
+    今天试了 Typeless，才感觉语音输入真正成了生产力。它的底层逻辑不再是简单的 ASR，而是 AI 重构：
+
+    自动去噪：过滤掉所有废话和语气词。
+
+    逻辑纠偏：即使你说得断断续续，它也能输出逻辑严密的书面语。
+
+    指令编辑：对着它说“把这段改得更专业点”，瞬间完成润色。
+
+    从“人工录入”进化到“意图传输”，打字的时代可能真的要结束了。
+
+- id: 2025-12-25-time-place-action
+  date: '2025-12-25'
+  content: |
+    人最重要的只有三件事，何时，何地，何事，至于事是怎么做的，重要性可以忽略不计了，“地”和“事”允许主观选择，“时”这个维度大概率没办法控制，这也是某种意义上的听天由命；
+
+    不过时代留给人的机会对时间和地点的要求也是非常严格的，能进入正确的电梯已经很厉害了，不用强行给自己电梯里的行为赋予意义。
+
+- id: 2025-12-01-beyond-words
+  date: '2025-12-01'
+  content: |
+    “教外别传，不立文字”
+  images:
+    - src: /imgs/thoughts/2025-12-01/1.png
+      alt: 寺院殿堂与水中倒影
+      width: 1536
+      height: 2048
+    - src: /imgs/thoughts/2025-12-01/2.png
+      alt: 树干与寺院屋檐
+      width: 1536
+      height: 2048
+    - src: /imgs/thoughts/2025-12-01/3.png
+      alt: 落叶小路上的背影
+      width: 1536
+      height: 2048
+    - src: /imgs/thoughts/2025-12-01/4.png
+      alt: 银杏树下的寺院照壁
+      width: 1536
+      height: 2048
+
 - id: 2025-10-15-conquest-of-happiness
   date: '2025-10-15'
   content: |
