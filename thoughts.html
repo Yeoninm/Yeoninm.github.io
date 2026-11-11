@@ -11,11 +11,18 @@ title: "随想"
 <article class="thought-entry" id="{{ thought.id | escape }}">
   {% if thought.title and thought.title != '' %}<h2>{{ thought.title | escape }}</h2>{% endif %}
   <div class="thought-content">{{ thought.content | markdownify }}</div>
+  {% if thought.tweet_id %}
+  <div class="tweet-preview" data-tweet-id="{{ thought.tweet_id | escape }}">
+    <div class="tweet-target"></div>
+    <p class="tweet-status">推文预览加载中；也可通过上方链接查看原文。</p>
+  </div>
+  {% endif %}
   <footer class="thought-meta">
-    <a class="thought-permalink" href="#{{ thought.id | escape }}" aria-label="这条随想的永久链接">链接 <span aria-hidden="true">↗</span></a>
     <time datetime="{{ thought.date | date_to_xmlschema }}">{{ thought.date | date: '%Y-%m-%d' }}</time>
   </footer>
 </article>
 {% else %}
 <p class="thoughts-empty">还没有发布随想。</p>
 {% endfor %}
+
+<script defer src="{{ "/assets/js/tweet-previews.js" | relative_url }}"></script>

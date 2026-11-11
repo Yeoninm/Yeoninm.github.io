@@ -30,8 +30,7 @@
 .markdown-body .social-links a { color: #24292e; }
 .markdown-body .social-links svg { display: block; }
 .markdown-body .home-links a:hover { color: #0366d6; }
-.markdown-body .home-links a:focus-visible,
-.markdown-body .thought-permalink:focus-visible {
+.markdown-body .home-links a:focus-visible {
   outline: 2px solid #0366d6;
   outline-offset: 3px;
   border-radius: 3px;
@@ -51,7 +50,7 @@
 .markdown-body .thought-content { line-height: 1.8; }
 .markdown-body .thought-meta {
   display: flex;
-  justify-content: space-between;
+  justify-content: flex-end;
   align-items: center;
   flex-wrap: wrap;
   gap: 8px;
@@ -59,13 +58,12 @@
   color: #6a737d;
   font-size: 14px;
 }
-.markdown-body .thought-permalink {
-  display: inline-flex;
-  align-items: center;
-  min-height: 44px;
-  padding: 0 8px;
-}
 .markdown-body .thoughts-empty { color: #6a737d; padding: 20px 0; }
 @media (max-width: 480px) {
   .markdown-body .thought-entry { padding: 18px; }
 }
+
+.markdown-body .tweet-preview { margin-top: 16px; max-width: 100%; }
+.markdown-body .tweet-status { color: #586069; font-size: 14px; }
+.markdown-body .tweet-target iframe { max-width: 100%; }
+html[data-theme="dark"] .markdown-body .tweet-status { color: #adb8c4; }
