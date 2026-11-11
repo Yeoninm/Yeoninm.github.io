@@ -395,3 +395,44 @@
       alt: 暮色中的城墙与远处的塔
       width: 1023
       height: 1280
+
+- id: 2023-03-02-neural-network-solution-space
+  date: '2023-03-02'
+  content: |
+    只要给神经网络无限大的解空间，模型就一定能够找到正确的答案，这个规律已经可以作为一个基础的定理了，就好比古猿人抬头仰望宇宙的那一刻，对于文明而言无穷大的解空间中才出现了正确答案，那什么时候可以计算出正确答案这件事在文明发展的刻度上就只是秒级的耗时了；这也解释了随着模型参数指数级上升，大模型表现出涌现的能力；在这个定理 & 大模型定理（类摩尔定律，每隔一定时间大模型训练成本指数级下降与模型性能指数级上升）两者相辅相成的情况下，我们 or 模型可以探索一切未知
+
+- id: 2023-10-25-shenzhen
+  date: '2023-10-25'
+  content: |
+    深圳的三个特点
+
+    - AED存有量很大，公共场所很容易看到AED
+    - 百分之80以上的人都是外来人口（来了就是深圳人[doge]）
+    - 街头小摊小贩很多，比例远高于北上广等其他二线城市
+
+    这三个特点看起来关系不大，实际上息息相关
+
+- id: 2024-03-29-great-taste
+  date: '2024-03-29'
+  content: |
+    就像燃烧里李沧东说的 little hungry 和 great hungry，这个世界也存在着 little taste 和 great taste，做自驾有自驾的 great taste，做加密有加密的 taste，书籍、音乐、艺术、科技，人与人之间的关系等等等，万事万物都有品味，要永远去做提升 great taste 的事情
+
+- id: 2021-10-03-prefrontal-cortex
+  date: '2021-10-03'
+  content: |
+    从微观角度看，人生的意义基本可以概括为一点：强化前额叶（延迟满足、自我控制、解决问题、情绪稳定）
+
+- id: 2020-12-09-app-store-accessibility
+  date: '2020-12-09'
+  content: |
+    App Store里应该加一项无障碍标准测试，App不达标的话就不允许上架App Store
+
+- id: 2020-03-08-recommendation-algorithms
+  date: '2020-03-08'
+  content: |
+    推荐算法看企业文化，字节跳动一心优化CTR，Pornhub盯着staytime不放，Medium的看起来合理点优化了CTR，staytime...的加权，两三年前的知乎专心搞Exploitation，现在为了发展，Exploration的比重好像更大了，时间线上每天喂💩
+
+- id: 2020-02-26-reading
+  date: '2020-02-26'
+  content: |
+    看完双雪涛看班宇，看完班宇得看孔二狗了
