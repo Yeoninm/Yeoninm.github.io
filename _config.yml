@@ -5,5 +5,5 @@ author: "Limin"
 # Keep Share URLs disabled in Umami; no visitor count is shown on this site.
 # Empty values leave tracking disabled until the owner's account is ready.
 umami:
-  website_id: ""
-  script_url: ""
+  website_id: "d8279755-cc9d-4a70-ae8a-f7137fa8bb84"
+  script_url: "https://cloud.umami.is/script.js"
