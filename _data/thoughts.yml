@@ -4,18 +4,22 @@
     最近十分喜欢杭州
   images:
     - src: /imgs/thoughts/2026-04-19/1.png
+      preview: /imgs/thoughts/2026-04-19/1-preview.jpg
       alt: 湖边亮灯的建筑与倒影
       width: 1536
       height: 2048
     - src: /imgs/thoughts/2026-04-19/2.png
+      preview: /imgs/thoughts/2026-04-19/2-preview.jpg
       alt: 夜色中的塔与码头
       width: 1536
       height: 2048
     - src: /imgs/thoughts/2026-04-19/3.png
+      preview: /imgs/thoughts/2026-04-19/3-preview.jpg
       alt: 雨中撑伞的背影
       width: 1536
       height: 2048
     - src: /imgs/thoughts/2026-04-19/4.png
+      preview: /imgs/thoughts/2026-04-19/4-preview.jpg
       alt: 雨中的街道
       width: 1536
       height: 2048
@@ -25,18 +29,22 @@
   content: ''
   images:
     - src: /imgs/thoughts/2026-03-28/1.png
+      preview: /imgs/thoughts/2026-03-28/1-preview.jpg
       alt: 展厅走廊
       width: 1536
       height: 2048
     - src: /imgs/thoughts/2026-03-28/2.png
+      preview: /imgs/thoughts/2026-03-28/2-preview.jpg
       alt: 展厅里的红色作品
       width: 1536
       height: 2048
     - src: /imgs/thoughts/2026-03-28/3.png
+      preview: /imgs/thoughts/2026-03-28/3-preview.jpg
       alt: 悬挂的展品
       width: 2048
       height: 1536
     - src: /imgs/thoughts/2026-03-28/4.png
+      preview: /imgs/thoughts/2026-03-28/4-preview.jpg
       alt: 通向庭院的门
       width: 1536
       height: 2048
@@ -53,6 +61,7 @@
     离开战神 Adam 的 WeWork 开始走向实用主义了
   images:
     - src: /imgs/thoughts/2026-03-07/1.png
+      preview: /imgs/thoughts/2026-03-07/1-preview.jpg
       alt: WeWork室内休息区
       width: 1536
       height: 2048
@@ -114,18 +123,22 @@
     “教外别传，不立文字”
   images:
     - src: /imgs/thoughts/2025-12-01/1.png
+      preview: /imgs/thoughts/2025-12-01/1-preview.jpg
       alt: 寺院殿堂与水中倒影
       width: 1536
       height: 2048
     - src: /imgs/thoughts/2025-12-01/2.png
+      preview: /imgs/thoughts/2025-12-01/2-preview.jpg
       alt: 树干与寺院屋檐
       width: 1536
       height: 2048
     - src: /imgs/thoughts/2025-12-01/3.png
+      preview: /imgs/thoughts/2025-12-01/3-preview.jpg
       alt: 落叶小路上的背影
       width: 1536
       height: 2048
     - src: /imgs/thoughts/2025-12-01/4.png
+      preview: /imgs/thoughts/2025-12-01/4-preview.jpg
       alt: 银杏树下的寺院照壁
       width: 1536
       height: 2048

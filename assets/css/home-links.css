@@ -68,21 +68,50 @@
 .markdown-body .tweet-target iframe { max-width: 100%; }
 html[data-theme="dark"] .markdown-body .tweet-status { color: #adb8c4; }
 
+/* One compact, swipeable row on both desktop and mobile. */
+.markdown-body .thought-gallery-shell { position: relative; margin-top: 16px; min-width: 0; }
 .markdown-body .thought-gallery {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 12px;
-  margin-top: 16px;
+  display: flex;
+  gap: 8px;
+  overflow-x: auto;
+  overflow-y: hidden;
+  scroll-snap-type: x mandatory;
+  scrollbar-width: none;
+  border-radius: 6px;
+  -webkit-overflow-scrolling: touch;
 }
-.markdown-body .thought-gallery a { display: block; }
+.markdown-body .thought-gallery::-webkit-scrollbar { display: none; }
+.markdown-body .thought-gallery a { display: block; flex: 0 0 auto; scroll-snap-align: start; }
 .markdown-body .thought-gallery img {
   display: block;
-  width: 100%;
-  height: auto;
-  border-radius: 4px;
+  width: auto;
+  max-width: none;
+  height: 280px;
+  border-radius: 6px;
 }
-@media (max-width: 480px) {
-  .markdown-body .thought-gallery { gap: 8px; }
+.markdown-body .gallery-arrow {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 44px;
+  height: 44px;
+  padding: 0;
+  border: 0;
+  border-radius: 50%;
+  background: rgba(15, 20, 25, .85);
+  color: white;
+  font-size: 26px;
+  line-height: 44px;
+  cursor: pointer;
+  box-shadow: 0 1px 5px #0003;
+}
+.markdown-body .gallery-arrow[hidden] { display: none; }
+.markdown-body .gallery-prev { left: 8px; }
+.markdown-body .gallery-next { right: 8px; }
+.markdown-body .gallery-arrow:focus-visible,
+.markdown-body .thought-gallery:focus-visible { outline: 2px solid #58a6ff; outline-offset: 2px; }
+@media (max-width: 600px) {
+  .markdown-body .thought-gallery img { height: 240px; }
 }
 
 /* Keep embedded widgets and their floats inside their own note. */
@@ -92,4 +121,3 @@ html[data-theme="dark"] .markdown-body .tweet-status { color: #adb8c4; }
 .markdown-body .tweet-target .twitter-tweet,
 .markdown-body .tweet-target iframe { float: none !important; max-width: 100%; }
 .markdown-body .thought-meta { clear: both; }
-.markdown-body .thought-gallery a:only-child { grid-column: 1 / -1; max-width: 520px; }
