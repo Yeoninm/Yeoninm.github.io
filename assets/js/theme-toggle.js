@@ -32,6 +32,14 @@
       apply(preference);
     });
     heading.appendChild(button);
+    if (heading.querySelector('a') && window.location.pathname !== '/' && window.location.pathname !== '/index.html' && window.location.pathname !== '/thoughts.html') {
+      heading.classList.add('site-heading');
+      var navigation = document.createElement('nav');
+      navigation.className = 'article-navigation';
+      navigation.setAttribute('aria-label', '栏目导航');
+      navigation.innerHTML = '<a href="/">文章</a><span aria-hidden="true">·</span><a href="/thoughts.html">随想</a>';
+      heading.appendChild(navigation);
+    }
     apply(root.dataset.theme);
   });
 })();

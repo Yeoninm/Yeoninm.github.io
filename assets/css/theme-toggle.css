@@ -1,4 +1,13 @@
 html[data-theme="light"] { color-scheme: light; }
+.markdown-body .site-heading { display: flex; align-items: center; flex-wrap: wrap; }
+.markdown-body .article-navigation { margin-left: auto; display: flex; align-items: center; gap: 14px; padding-left: 16px; font-size: 14px; font-weight: 400; }
+.markdown-body .article-navigation a { color: #586069; }
+.markdown-body .article-navigation span { color: #959da5; }
+html[data-theme="dark"] .markdown-body .article-navigation a { color: #adb8c4; }
+@media (max-width: 420px) {
+  .markdown-body .article-navigation { gap: 10px; padding-left: 8px; }
+  .markdown-body .site-heading .theme-toggle { margin-left: 8px; width: 36px; }
+}
 html[data-theme="dark"] { color-scheme: dark; background: #161b22; }
 .markdown-body .theme-toggle {
   display: inline-flex;
