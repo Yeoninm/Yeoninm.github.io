@@ -23,3 +23,5 @@ html[data-theme="dark"] .markdown-body .film-detail-placeholder { color: #adb8c4
   .markdown-body .film-detail { grid-template-columns: minmax(0, 1fr); gap: 20px; min-height: 0; padding: 24px 0; }
   .markdown-body .film-detail-placeholder { min-height: 110px; }
 }
+
+.markdown-body .film-detail-media a + a { margin-top: 12px; }

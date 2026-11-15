@@ -129,6 +129,17 @@ date: 2026-11-15
 </div>
 </section>
 
+<section class="film-detail">
+<div class="film-detail-media"><a href="/imgs/reading-lee-chang-dong/shoelaces-opening.png" target="_blank" rel="noopener" aria-label="片头崔铁蹲下系鞋带，查看原图"><img src="/imgs/reading-lee-chang-dong/shoelaces-opening-preview.jpg" alt="片头崔铁蹲下系鞋带" width="4086" height="2170" loading="lazy" decoding="async"></a>
+<a href="/imgs/reading-lee-chang-dong/shoelaces-ending.png" target="_blank" rel="noopener" aria-label="结尾尚宇主动为崔铁系鞋带，查看原图"><img src="/imgs/reading-lee-chang-dong/shoelaces-ending-preview.jpg" alt="结尾尚宇主动为崔铁系鞋带" width="4082" height="2190" loading="lazy" decoding="async"></a></div>
+<div class="film-detail-copy">
+<h5>6. 两次系鞋带</h5>
+<p>片头，父亲浩硕让崔铁自己系鞋带。</p>
+<p>到了结尾，却是尚宇主动蹲下来，替崔铁系鞋带。</p>
+<p>这也是一个有意思的前后呼应。</p>
+</div>
+</section>
+
 </div>
 
 ### 五、我们也需要杜甫
@@ -141,11 +152,11 @@ date: 2026-11-15
 
 毕赣像李白，李白写诗像在做梦，毕赣拍电影也像在做梦。
 
-> 《路边野餐》：“我欲因之梦吴越，一夜飞度镜湖月”。
+> “我欲因之梦吴越，一夜飞度镜湖月”。
 
 姜文像李贺
 
-> 《一步之遥》是“况是青春日将暮，桃花乱落如红雨”。
+> “况是青春日将暮，桃花乱落如红雨”。
 
 李沧东更像杜甫。注视着人间，注视着普通人的痛苦、尊严、善良和无可奈何。
 
