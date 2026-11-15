@@ -12,11 +12,11 @@ layout: default
 
 <font size="1">2026 年 11 月 2 日</font>
 
-### [我们用一生，回到起点](return-to-the-beginning.md)
+### [回到起点](return-to-the-beginning.md)
 
 <font size="1">2026 年 11 月 1 日</font>
 
-### [我发现，价值投资可能是一个伪命题](value-investing-and-consensus.md)
+### [价值投资可能是个伪命题](value-investing-and-consensus.md)
 
 <font size="1">持续更新 · 最近更新：2026 年 10 月 31 日</font>
 
