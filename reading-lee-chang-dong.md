@@ -119,7 +119,7 @@ date: 2026-11-15
 </section>
 
 <section class="film-detail">
-<div class="film-detail-media"><div class="film-detail-placeholder"><svg aria-hidden="true" viewBox="0 0 24 24" width="28" height="28" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M20 11v9H4V4h9M16 4h6m-3-3v6M4 17l5-5 4 4 3-3 4 4"/><circle cx="9" cy="8" r="1.5"/></svg><span>待添加图片 5</span></div></div>
+<div class="film-detail-media"><a href="/imgs/reading-lee-chang-dong/coveting.png" target="_blank" rel="noopener" aria-label="不可贪恋的电影字幕画面，查看原图"><img src="/imgs/reading-lee-chang-dong/coveting-preview.jpg" alt="不可贪恋的电影字幕画面" width="4046" height="2136" loading="lazy" decoding="async"></a></div>
 <div class="film-detail-copy">
 <h5>5. 第十诫：不可贪恋</h5>
 <p>“不可贪恋”贯穿了整部电影。</p>
