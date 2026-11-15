@@ -1,3 +1,6 @@
+/* Give each main section of the essay a clear pause. */
+.markdown-body h3 { margin-top: 48px; }
+
 .markdown-body .film-details { margin: 24px 0 32px; }
 .markdown-body .film-detail {
   display: grid;
