@@ -1,6 +1,8 @@
 ---
 title: "读李沧东"
 date: 2026-11-15
+description: "看《可能的爱》有感。"
+image: "https://yeoninm.github.io/imgs/reading-lee-chang-dong/amour-preview.jpg"
 ---
 
 <link rel="stylesheet" href="{{ "/assets/css/film-details.css" | relative_url }}">
