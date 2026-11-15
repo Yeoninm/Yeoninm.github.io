@@ -90,25 +90,25 @@ date: 2026-11-15
 </section>
 
 <section class="film-detail">
-<div class="film-detail-media"><div class="film-detail-placeholder"><svg aria-hidden="true" viewBox="0 0 24 24" width="28" height="28" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M20 11v9H4V4h9M16 4h6m-3-3v6M4 17l5-5 4 4 3-3 4 4"/><circle cx="9" cy="8" r="1.5"/></svg><span>待添加图片 2</span></div></div>
+<div class="film-detail-media"><a href="/imgs/reading-lee-chang-dong/gaze.png" target="_blank" rel="noopener" aria-label="崔铁从门缝中注视外面，查看原图"><img src="/imgs/reading-lee-chang-dong/gaze-preview.jpg" alt="崔铁从门缝中注视外面" width="4086" height="2196" loading="lazy" decoding="async"></a></div>
 <div class="film-detail-copy">
-<h5>2. 崔轶与超越性凝视</h5>
-<p>李沧东曾提到，编剧克日什托夫·皮耶谢维奇建议他加入一种类似基耶斯洛夫斯基作品中的“超越性凝视”，于是有了崔轶这个角色。</p>
-<p>四个成年人都困在自己的欲望和判断之中。崔轶是否提供了另一种观看世界的目光？</p>
+<h5>2. 崔铁与超越性凝视</h5>
+<p>李沧东曾提到，编剧克日什托夫·皮耶谢维奇建议他加入一种类似基耶斯洛夫斯基作品中的“超越性凝视”，于是有了崔铁这个角色。</p>
+<p>四个成年人都困在自己的欲望和判断之中。崔铁是否提供了另一种观看世界的目光？</p>
 </div>
 </section>
 
 <section class="film-detail">
-<div class="film-detail-media"><a href="/imgs/reading-lee-chang-dong/taekwondo.png" target="_blank" rel="noopener" aria-label="跆拳道场上系着白带的崔轶，查看原图"><img src="/imgs/reading-lee-chang-dong/taekwondo-preview.jpg" alt="跆拳道场上系着白带的崔轶" width="4062" height="2032" loading="lazy" decoding="async"></a></div>
+<div class="film-detail-media"><a href="/imgs/reading-lee-chang-dong/taekwondo.png" target="_blank" rel="noopener" aria-label="跆拳道场上系着白带的崔铁，查看原图"><img src="/imgs/reading-lee-chang-dong/taekwondo-preview.jpg" alt="跆拳道场上系着白带的崔铁" width="4062" height="2032" loading="lazy" decoding="async"></a></div>
 <div class="film-detail-copy">
-<h5>3. 崔轶的跆拳道白带</h5>
-<p>跆拳道场上，崔轶系着白带，是全场级别最低的孩子。</p>
+<h5>3. 崔铁的跆拳道白带</h5>
+<p>跆拳道场上，崔铁系着白带，是全场级别最低的孩子。</p>
 <p>一个在等级中处于最低位置的孩子，是否可能拥有成年人所缺少的目光？</p>
 </div>
 </section>
 
 <section class="film-detail">
-<div class="film-detail-media"><div class="film-detail-placeholder"><svg aria-hidden="true" viewBox="0 0 24 24" width="28" height="28" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M20 11v9H4V4h9M16 4h6m-3-3v6M4 17l5-5 4 4 3-3 4 4"/><circle cx="9" cy="8" r="1.5"/></svg><span>浩硕与天堂的影评截图</span></div></div>
+<div class="film-detail-media"><a href="/imgs/reading-lee-chang-dong/paradiso.png" target="_blank" rel="noopener" aria-label="浩硕在 Paradiso 餐厅注视庆祝生日的一家人，查看原图"><img src="/imgs/reading-lee-chang-dong/paradiso-preview.jpg" alt="浩硕在 Paradiso 餐厅注视庆祝生日的一家人" width="4094" height="2134" loading="lazy" decoding="async"></a></div>
 <div class="film-detail-copy">
 <h5>4. 浩硕与 <em>Paradiso</em>（天堂）</h5>
 <p>浩硕跟随一位为孩子购买生日蛋糕的男人，来到一家名为 <em>Paradiso</em> 的餐厅。</p>
