@@ -3,11 +3,13 @@ title: "读李沧东"
 date: 2026-11-15
 ---
 
+<link rel="stylesheet" href="{{ "/assets/css/film-details.css" | relative_url }}">
+
 # 读李沧东
 
 > 看《可能的爱》有感
-
-用“读”这个词，是因为我觉得李沧东先是一个诗人、作家，其次才是一个导演。
+>
+> 用“读”这个词，是因为我觉得李沧东先是一个诗人、作家，其次才是一个导演。
 
 ### 一、两种极端
 
@@ -59,11 +61,75 @@ date: 2026-11-15
 
 我想，真正有生命力的情绪，是观众从作品中自己感受到的。
 
-好的电影拍完之后就不属于导演了。一部电影越伟大，它就越不需要导演来解释自己。
-
 ### 四、回到《可能的爱》
 
-（这一部分等待补充观影感受。）
+《可能的爱》依然有着李沧东式的叙事结构、诗意、克制与留白。
+
+有阶级矛盾，有婚姻与爱情，可能也有我们如何观看、记录和讲述另一个人的痛苦。
+
+李沧东在采访中说，他不喜欢刻意通过电影传达某种信息，也始终努力保持一种态度：不认为自己掌握答案。
+
+我对这部电影有自己的理解，但不想把这种理解强加给别人。
+
+你可以看到电影呈现出来的东西，也可以看到那些没有被说出来的东西。
+
+好的电影拍完之后就不属于导演了。一部电影越好，它就越不需要导演来解释自己。
+
+#### 几个我觉得有意思的细节
+
+<div class="film-details">
+
+<section class="film-detail">
+<div class="film-detail-media"><a href="/imgs/reading-lee-chang-dong/amour.png" target="_blank" rel="noopener" aria-label="艺智穿着 Amour T恤与众人围桌而坐，查看原图"><img src="/imgs/reading-lee-chang-dong/amour-preview.jpg" alt="艺智穿着 Amour T恤与众人围桌而坐" width="4076" height="2108" loading="lazy" decoding="async"></a></div>
+<div class="film-detail-copy">
+<h5>1. 艺智的 <em>Amour</em> T恤</h5>
+<p>美玉提醒艺智，昂贵的衣服可能让失业工人感到难堪。后来，艺智换上了一件印有 <em>Amour</em>（爱）的T恤。</p>
+<p>那时的她似乎相信，自己知道什么是真正的爱。</p>
+<p>直到美玉和浩硕离开，她独自坐在沙发上哭泣。或许她终于开始怀疑，自己究竟懂不懂爱。</p>
+</div>
+</section>
+
+<section class="film-detail">
+<div class="film-detail-media"><div class="film-detail-placeholder"><svg aria-hidden="true" viewBox="0 0 24 24" width="28" height="28" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M20 11v9H4V4h9M16 4h6m-3-3v6M4 17l5-5 4 4 3-3 4 4"/><circle cx="9" cy="8" r="1.5"/></svg><span>待添加图片 2</span></div></div>
+<div class="film-detail-copy">
+<h5>2. 崔轶与超越性凝视</h5>
+<p>李沧东曾提到，编剧克日什托夫·皮耶谢维奇建议他加入一种类似基耶斯洛夫斯基作品中的“超越性凝视”，于是有了崔轶这个角色。</p>
+<p>四个成年人都困在自己的欲望和判断之中。崔轶是否提供了另一种观看世界的目光？</p>
+</div>
+</section>
+
+<section class="film-detail">
+<div class="film-detail-media"><a href="/imgs/reading-lee-chang-dong/taekwondo.png" target="_blank" rel="noopener" aria-label="跆拳道场上系着白带的崔轶，查看原图"><img src="/imgs/reading-lee-chang-dong/taekwondo-preview.jpg" alt="跆拳道场上系着白带的崔轶" width="4062" height="2032" loading="lazy" decoding="async"></a></div>
+<div class="film-detail-copy">
+<h5>3. 崔轶的跆拳道白带</h5>
+<p>跆拳道场上，崔轶系着白带，是全场级别最低的孩子。</p>
+<p>一个在等级中处于最低位置的孩子，是否可能拥有成年人所缺少的目光？</p>
+</div>
+</section>
+
+<section class="film-detail">
+<div class="film-detail-media"><div class="film-detail-placeholder"><svg aria-hidden="true" viewBox="0 0 24 24" width="28" height="28" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M20 11v9H4V4h9M16 4h6m-3-3v6M4 17l5-5 4 4 3-3 4 4"/><circle cx="9" cy="8" r="1.5"/></svg><span>浩硕与天堂的影评截图</span></div></div>
+<div class="film-detail-copy">
+<h5>4. 浩硕与 <em>Paradiso</em>（天堂）</h5>
+<p>浩硕跟随一位为孩子购买生日蛋糕的男人，来到一家名为 <em>Paradiso</em> 的餐厅。</p>
+<p>他站在外面，看着里面的一家人庆祝生日。</p>
+<p>有影评把他比作一颗未经邀请、悄然闯入天堂的宝石。</p>
+<p>所谓天堂，究竟是谁的天堂？</p>
+</div>
+</section>
+
+<section class="film-detail">
+<div class="film-detail-media"><div class="film-detail-placeholder"><svg aria-hidden="true" viewBox="0 0 24 24" width="28" height="28" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M20 11v9H4V4h9M16 4h6m-3-3v6M4 17l5-5 4 4 3-3 4 4"/><circle cx="9" cy="8" r="1.5"/></svg><span>待添加图片 5</span></div></div>
+<div class="film-detail-copy">
+<h5>5. 第十诫：不可贪恋</h5>
+<p>“不可贪恋”贯穿了整部电影。</p>
+<p>尚宇贪恋利润和权力；美玉与浩硕贪恋遥不可及的他人生活；包括李沧东自己在内的创作者，也贪恋他人的故事与痛苦。</p>
+<p>贪恋似乎是每个人与生俱来的欲望。</p>
+<p>但我还没有想清楚，“不可贪恋”究竟意味着什么。贪恋与爱之间的界限，又在哪里？</p>
+</div>
+</section>
+
+</div>
 
 ### 五、我们也需要杜甫
 
