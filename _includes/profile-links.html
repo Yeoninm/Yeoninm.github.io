@@ -1,9 +1,12 @@
 <div class="home-links">
   <nav class="section-links" aria-label="内容导航">
-    <a href="{{ '/' | relative_url }}"{% unless page.url contains 'thoughts' %} aria-current="page"{% endunless %}>文章</a>
+    <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} aria-current="page"{% endif %}>文章</a>
     <a href="{{ '/thoughts.html' | relative_url }}"{% if page.url contains 'thoughts' %} aria-current="page"{% endif %}>随想</a>
   </nav>
-  <nav class="social-links" aria-label="社交主页">
+  <nav class="social-links" aria-label="关于我与社交主页">
+    <a href="{{ '/about.html' | relative_url }}" aria-label="关于我" title="关于我"{% if page.url contains 'about' %} aria-current="page"{% endif %}>
+      <svg viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="8" r="4"/><path d="M4 21v-2a8 8 0 0 1 16 0v2"/></svg>
+    </a>
     <a href="https://x.com/0x_limin" target="_blank" rel="noopener noreferrer" aria-label="推特（X）：@0x_limin，在新标签页打开" title="推特（X） · @0x_limin">
       <svg viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 5.9a8.3 8.3 0 0 1-2.4.7 4.2 4.2 0 0 0 1.8-2.3 8.3 8.3 0 0 1-2.7 1 4.2 4.2 0 0 0-7.2 3.8A11.9 11.9 0 0 1 2.9 4.7a4.2 4.2 0 0 0 1.3 5.6 4.2 4.2 0 0 1-1.9-.5v.1a4.2 4.2 0 0 0 3.4 4.1 4.2 4.2 0 0 1-1.9.1 4.2 4.2 0 0 0 3.9 2.9A8.4 8.4 0 0 1 2.5 19H1.5a11.9 11.9 0 0 0 18.3-10c0-.2 0-.4-.1-.5A8.5 8.5 0 0 0 22 5.9Z"/></svg>
     </a>
