@@ -13,6 +13,8 @@ layout: default
 
 网站仅用来记录一些想法。
 
+如果你对某些内容感兴趣，可以通过推特或者微信和我互动。推特：[@0x_limin](https://x.com/0x_limin)，微信：limin_eth。
+
 <details class="year-archive home-archive" id="year-2026" open markdown="1">
 <summary>2026 年</summary>
 
