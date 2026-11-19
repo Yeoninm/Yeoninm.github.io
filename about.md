@@ -7,8 +7,6 @@ title: "关于我"
 
 {% include profile-links.html %}
 
-# 关于我
-
 关心 AI、自动驾驶、加密货币，也关心人文、设计。
 
 网站仅用来记录一些想法。
