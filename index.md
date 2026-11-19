@@ -7,6 +7,12 @@ layout: default
 
 {% include profile-links.html %}
 
+## 关于我
+
+关心 AI、自动驾驶、加密货币，也关心人文、设计、诗歌。
+
+网站仅用来记录一些想法。
+
 <details class="year-archive home-archive" id="year-2026" open markdown="1">
 <summary>2026 年</summary>
 
