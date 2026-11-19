@@ -10,6 +10,10 @@ layout: default
 <details class="year-archive home-archive" id="year-2026" open markdown="1">
 <summary>2026 年</summary>
 
+<font size="1">2026 年 11 月 19 日</font>
+
+### [姚顺宇访谈文字稿](yao-shunyu-interview.md)
+
 <font size="1">2026 年 11 月 15 日</font>
 
 ### [读李沧东](reading-lee-chang-dong.md)
