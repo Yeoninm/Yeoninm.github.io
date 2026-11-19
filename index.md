@@ -12,7 +12,7 @@ layout: default
 
 <font size="1">2026 年 11 月 19 日</font>
 
-### [姚顺宇访谈文字稿](yao-shunyu-interview.md)
+### [姚顺雨访谈文字稿](yao-shunyu-interview.md)
 
 <font size="1">2026 年 11 月 15 日</font>
 
